@@ -1,0 +1,22 @@
+{
+  "name": "blockprj",
+  "version": "1.0.0",
+  "description": "HSE blockchain project 3.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xfiniks/BlockPrj.git"
+  },
+  "author": "Ivan Chernykh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xfiniks/BlockPrj/issues"
+  },
+  "homepage": "https://github.com/xfiniks/BlockPrj#readme",
+  "dependencies": {
+    "web3": "^1.8.0"
+  }
+}
